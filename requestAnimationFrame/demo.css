@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#slide{
+	width:30px;
+	height:15px;
+	background-color:#03C;
+	position:absolute;
+	left:10px;
+	top:10px;
+	}
+#stop{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:10px;
+	top:30px;
+	background-size:contain;
+	background-repeat:no-repeat;
+	}
